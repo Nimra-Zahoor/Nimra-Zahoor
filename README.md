@@ -33,14 +33,7 @@
 ### 💬 Ask Me About
 **React.js, Next.js, React Native, MERN Stack, Firebase, APIs, Frontend Architecture**
 
-
-
-### 🌱 Currently
-- Building **open-source tools**
-- Improving **Next.js & performance optimization**
-- Preparing for **Frontend / Next.js roles**
-
-
+---
 
 ### 🤝 Connect With Me
 <p align="left">
