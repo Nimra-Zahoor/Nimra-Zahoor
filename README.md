@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  MERN Stack Developer | Frontend-focused Software Engineer
+  MERN Stack Developer 
 </h3>
 
 <p align="center">
