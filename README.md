@@ -65,9 +65,7 @@
 
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nimra-Zahoor&show_icons=true&theme=vision-friendly-dark" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nimra-Zahoor&theme=vision-friendly-dark" />
