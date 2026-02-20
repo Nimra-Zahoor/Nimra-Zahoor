@@ -64,17 +64,5 @@
 
 
 
-### 📊 GitHub Stats
-
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nimra-Zahoor&theme=vision-friendly-dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nimra-Zahoor&layout=compact&theme=vision-friendly-dark" />
-</p>
-
----
 
 ⭐️ *Always open to collaboration and learning*
